@@ -1,0 +1,2 @@
+# LeftOrRight
+上げている手が右手か左手か判断するpythonファイル
